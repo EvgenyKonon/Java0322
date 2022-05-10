@@ -1,0 +1,26 @@
+* 2e1b3e4 (HEAD -> task2) add wrok history
+*   80b6192 (origin/master, master) Merge pull request #1 from EvgenyKonon/task1
+|\
+| * e168e10 (origin/task1, task1) modify
+| *   492fe55 Merge branch 'task1' of github.com:EvgenyKonon/Java0322 into task1
+| |\
+| | * 55230ef Delete file.txt
+| | * b98d5df Update file.txt
+| | * 45bc05d create new file
+| | * 2b4a6ea modify file
+| * | 9ab0c58 restore
+| * | 70caa89 modify
+| * | 70e9a5c modifyfile & file2
+| |/
+| * 1749327 commit next txt file
+| * 3a92c0c commit new txt file
+|/
+* f461616 rm file.txt
+* b00daf9 initial commit
+* 19b144a  modify file
+* 93b84b1 initila commit
+* c3d3798 (origin/main) change readme file
+* 3ceb56e change readme file
+* e609dc5 change readme file
+* 8650e4c change readme file
+* c7b66c9 Initial commit
