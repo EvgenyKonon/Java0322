@@ -1,0 +1,500 @@
+   19  bash: cd: C:UsersJackkonon-git-repo
+   20  cd: C:UsersJackkonon-git-repo
+   21  bash: C:UsersJackkonon-git-repo
+   22   C:UsersJackkonon-git-repo
+   23  /konon-git-repo
+   24  \konon-git-repo
+   25  git init
+   26  ~/konon-git-repo
+   27  git init
+   28  git status
+   29  ~/konon-git-repo
+   30  git init
+   31  git status
+   32  ~C/users/jack/konon-git-repo
+   33  ~/konon-git-repo
+   34  bash: /c/Users/Jack/konon-git-repo
+   35  ~/c/Users/Jack/konon-git-repo
+   36  cd konon-git-repo
+   37  git init
+   38  git status
+   39  cd konon-git-repo
+   40  gitst
+   41  clear
+   42  git st
+   43  ls
+   44  git featch
+   45  git fetch
+   46  git fetch
+   47  clear
+   48  git status
+   49  git logg
+   50  git branch -a
+   51  cd konon-git-repo
+   52  ls
+   53  tree
+   54  -tree
+   55  .tree
+   56  ~tree
+   57  cls
+   58  cn
+   59  cln
+   60  ls
+   61  dir
+   62  touch file.txt
+   63  ls
+   64  git status
+   65  git add file.txt
+   66  git status
+   67  git commit file.txt -m "initila commit"
+   68  git status
+   69  notepad file.txt
+   70  git status
+   71  git add file.txt
+   72  git commit file.txt -m " modify file"
+   73  log
+   74  logg
+   75  notepad .gitconfig
+   76  ~gitconfig
+   77  .gitconfig
+   78  cd.
+   79  cd ../
+   80  notepad .gitconfig
+   81  logg
+   82  cd konon-git-repo
+   83  logg
+   84  log
+   85  git log
+   86  git logg
+   87  cd ../
+   88  notepad .gitconfig
+   89  cd konon-git-repo
+   90  git logg
+   91  st
+   92  git st
+   93  git remote add origin git@github.com:EvgenyKonon/Java0322.git
+   94  git st
+   95  git remote - v
+   96  git remote -v
+   97  rename file.txt
+   98  git rename file.txt
+   99  notepad file.tt
+  100  notepad file.txt
+  101  git --help
+  102  rm file.txt
+  103  ls
+  104  st
+  105  git st
+  106  git add
+  107  git commit -m "delete file.txt"
+  108  st
+  109  git st
+  110  git logg
+  111  touch first.txt
+  112  git add first.txt
+  113  git commit first.txt -m "initial commit"
+  114  ls
+  115  git st
+  116  git add
+  117  branch task1
+  118  branch mkdir task1
+  119  git push --set -upstream origin master
+  120  git push --set-upstream origin master
+  121  ssh-keygen -t rs -C "java0322"
+  122  ssh-keygen -t rsa -C "java0322"
+  123  notepad id_rsa.pub
+  124  ~.ssh
+  125  ~/.ssh
+  126  /
+  127  cd ./ssh
+  128  cs /.ssh
+  129   cd ./ssh
+  130  cd ssh/.
+  131  .ssh/
+  132  cd../
+  133  ../
+  134  cd ..
+  135  ~ssh/
+  136  ~/ssh
+  137  ~.ssh/
+  138  ~/.ssh
+  139  cd .ssh/
+  140  notepad .ssh
+  141  notepad id_rsa.pub
+  142  clear
+  143  cd //
+  144  ~/kono-git-repo
+  145  cd konon-git-repo
+  146  git st
+  147  --global git st
+  148  cd c/users/jack/konon-git-repo
+  149  cd konon-git-repo
+  150  git st
+  151  git add/rm file.txt
+  152  git rm file.txt
+  153  ls
+  154  git st
+  155  git --staged file.txt
+  156  git restore --staged file.txt
+  157  ls
+  158  git st
+  159  git commit -a
+  160  cd konon-git-repo
+  161  git st
+  162  git branch tasks1
+  163  ls
+  164  git add first.txt
+  165  git st
+  166  git logg
+  167  git checkout task1
+  168  cd konon-git-repo
+  169  git st
+  170  git logg
+  171  git add  first.txt
+  172  git add  first.txt
+  173  git rm file.txt
+  174  git add first.txt
+  175  git commit first.txt -m "add new txt file"
+  176  git log
+  177  git logg
+  178  git rm file.txt
+  179  git commit first.txt -m "commit new txt file"
+  180  git log
+  181  git logg
+  182  git rm file.txt
+  183  git commit file.txt -m "rm file.txt"
+  184  git logg
+  185  git st
+  186  git add first.txt
+  187  git commit first.txt -m "commit new txt file"
+  188  git logg
+  189  git commit first.txt -m"commit new txt file"
+  190  git checkout task1
+  191  git checkout branch task1
+  192  git st
+  193  git logg
+  194  git log
+  195  git checkout tasks1
+  196  git -help
+  197  git --help
+  198  git checkout master
+  199  git branch delete
+  200  git logg
+  201  git branch task1
+  202  git log
+  203  git branch rm delete
+  204  git log
+  205  git branch --help
+  206  git brahch delete --delete
+  207  git delete --delete
+  208  git branch delete --delete
+  209  git branch rm --delete
+  210  git log
+  211  git checkout task1
+  212  git log
+  213  git branch tasks1 --delete
+  214  git branch -a
+  215  git touch file.txt
+  216  touch file.txt
+  217  ls
+  218  git checkout master
+  219  git add first.txt
+  220  git commit first.txt -m "initial commit"
+  221  git logg
+  222  git log
+  223  git rm first.txt
+  224  git commit first.txt
+  225  cd konon-git-repo
+  226  gitst
+  227  gi st
+  228  git st
+  229  git rm first.txt
+  230  git checkout task1
+  231  ls
+  232  git checkout master
+  233  ls
+  234  git rm file.txt
+  235  git checkout task1
+  236  git rm file.txt
+  237  gitlog
+  238  git logg
+  239  ls
+  240  git log
+  241  clear
+  242  git checkout master
+  243  ls
+  244  ls
+  245  git checkout task1
+  246  ls
+  247  clear
+  248  git checkout master
+  249  touch first.txt
+  250  git add first.txt
+  251  git commit first.txt -m "commit first.txt file"
+  252  git logg
+  253  git log
+  254  uq
+  255  qu
+  256  quit
+  257  exit
+  258  cd konon-git-repo
+  259  git checkout task1
+  260  ls
+  261  git checkout master
+  262  ls
+  263  git checkout task1
+  264  touch file.txt
+  265  ls
+  266  git add file.txt
+  267  git commit file.txt -m "commit new txt file"
+  268  git logg
+  269  git checkout master
+  270  git commit first.txt -m "commit"
+  271  git checkout task1
+  272  notepad file.txt
+  273  git add file.txt
+  274  touch file2.txt
+  275  ls
+  276  git add file2.txt
+  277  git commit file2.txt
+  278  git logg
+  279  git st
+  280  git checkout master
+  281  git checkout master
+  282  git checkout master
+  283  git commit file2.txt -m
+  284  git commit file2.txt
+  285  git commit file2.txt -m "commit next txt file"
+  286  vim
+  287  vim file2.txt
+  288  notepad file2.txt
+  289  git st
+  290  git rm -quit
+  291  git st
+  292  git fetch
+  293  git st
+  294  git push
+  295  git push --set-upstream origin task1
+  296  ~/c
+  297  cd .c
+  298  cd C
+  299  cd../../
+  300  cd ..
+  301  cd//
+  302  cd../
+  303  cd ../
+  304  cd ../
+  305  mkdir clone-git-repo
+  306  ls
+  307  cd cloe-dit-repo
+  308  cd clone-git-repo/
+  309  git clone --help
+  310  git clone
+  311  git clone --remote
+  312  git clone origin
+  313  git clone main
+  314  git clone 0322
+  315  git clone java0322
+  316  git remote clone
+  317  git clone git@github.com:EvgenyKonon/Java0322.git
+  318  ls
+  319  git clone git@github.com:EvgenyKonon/Java0322.git
+  320  cd Java0322/
+  321  ls
+  322  git checkout task1
+  323  ls
+  324  clear
+  325  ls
+  326  touch test.txt
+  327  notepad file.txt
+  328  git st
+  329  git add file.txt
+  330  git add test.txt
+  331  git commit file.txt -m "modify file"
+  332  git commit test.txt -m "create new file"
+  333  git fetch
+  334  git st
+  335  git push
+  336  notepad readme.md
+  337  git checkout main
+  338  ls
+  339  notepade README.md
+  340  git notepad README.md
+  341  notepad README.md
+  342  git st
+  343  git addREADME>md
+  344  git add README.md
+  345  git commit README.md -m "change readme file"
+  346  git st
+  347  git logg
+  348  notepad README.md
+  349  git add README.mdgit add README.md
+  350  git add README.md
+  351  git commit README.md -m "change readme file"
+  352  git st
+  353  git rm md
+  354  git st
+  355  git log
+  356  git logg
+  357  git fetch
+  358  git push
+  359  notepad README.md
+  360  git add README.md
+  361  git commit README.md -m "change readme file"
+  362  git fetch
+  363  git push
+  364  notepad README.md
+  365  git add README.md
+  366  git commit README.md
+  367  gitfetch
+  368  git fetch
+  369  git push
+  370  cd//
+  371  cd ../
+  372  cd ../
+  373  cd users/jack/
+  374  cd kono-git-repo
+  375  ~/konon-git-repo
+  376  cd konon-git-repo
+  377  git checkout master
+  378  git st
+  379  git add file2.txt
+  380  git st
+  381  git checkout master
+  382  git fetch
+  383  git merge
+  384  git st
+  385  git commit file.txt file2.txt -m "modifyfile & file2 "
+  386  git st
+  387  git merge
+  388  git checkout master
+  389  notepar file.txt
+  390  notepad file.txt
+  391  notepad file.txt
+  392  git merge
+  393  git merge
+  394  git pull
+  395  clear
+  396  git st
+  397  fix conflict
+  398  merge --abort
+  399  git merge --abort
+  400  git st
+  401  git checkout amster
+  402  git checkout master
+  403  git st
+  404  git merge
+  405  git checkout task1
+  406  git pull
+  407  git merge --abort
+  408  git pull
+  409  git merge -abort
+  410  git merge --abort
+  411  git pull
+  412  git merge --abort
+  413  git pull
+  414  git merge -abort
+  415  git merge --abort
+  416  git st
+  417  ls
+  418  notepad file.txt
+  419  git merge
+  420  git merge --abort
+  421  git pull
+  422  git merge --abort
+  423  notepad file.txt
+  424  git st
+  425  git add file.txt
+  426  git commit file.txt -m "modify"
+  427  git pull
+  428  git merge --abort
+  429  git checkout master
+  430  git st
+  431  ls
+  432  git checkout task1
+  433  git st
+  434  git pull
+  435  ls
+  436  notepad file.txt
+  437  notepad file.txt
+  438  git add file.txt
+  439  git commit file.txt -m"modify"
+  440  git commit file.txt -m "modify"
+  441  git merge --abort
+  442  git st
+  443  notepad file.txt
+  444  git logg
+  445  git fetch
+  446  git pull
+  447  git rm file.txt
+  448  git st
+  449  git merge --abort
+  450  ls
+  451  git rm file.txt
+  452  ls
+  453  git pull
+  454  git st
+  455  git checkout msater
+  456  git checkout master
+  457  git st
+  458  git log
+  459  git logg
+  460  git checkout task1
+  461  git pull
+  462  ls
+  463  git merge --abort
+  464  git rm file.txt
+  465  ls
+  466  git pull
+  467  git st
+  468  git resore --staged file.txt
+  469  git restore --staged file.txt
+  470  git st
+  471  git add file.txt
+  472  git commit file.txt -m "restore"
+  473  fit st
+  474  git st
+  475  git pull
+  476  ls
+  477  git merge --abort
+  478  git rm file.txt
+  479  ls
+  480  clere
+  481  clear
+  482  git st
+  483  git pull
+  484  git pull
+  485  git st
+  486  ls
+  487  notepad test.txt
+  488  git st
+  489  git commit -a
+  490  git add test.txt
+  491  git commit test.txt -m "modify"
+  492  git push
+  493  git checkout master
+  494  git push
+  495  git push --set-upstream origin master
+  496  git st
+  497  git pull
+  498  notepad file2.txt
+  499  commit history
+  500  git commit --help
+  501  git log
+  502  clear
+  503  git logg
+  504  git -history
+  505  git --history
+  506  -git version
+  507  git -version
+  508  git --version
+  509  git logg
+  510  git branch task2
+  511  git logg
+  512  git checkout task2
+  513  clear
+  514  git logg
+  515  touch history.txt
+  516  notepad history.txt
+  517  git history
+  518  history
